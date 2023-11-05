@@ -6,6 +6,8 @@
 # Phân công nhiệm vụ
 - Lê Bảo Thiên Trân
   - Đặc tả các nghiệp vụ
+  - Đặc tả các usecase chức năng của Nhân viên trên hệ thống
+  - Thiết kế Cơ sở dữ liệu Sql
 - Tạ Phi Long
   - Vẽ sơ đồ usecase nghiệp vụ
   - Vẽ sơ đồ hoạt động, tuần tự, tương tác của nghiệp vụ
@@ -20,6 +22,8 @@
     - Xem danh sách sản phẩm
     - Xem chi tiết sản phẩm
     - Thêm vào giỏ hàng
+  - Vẽ sơ đồ usecase chức năng hệ thống
+  - Đặc tả các usecase chức năng của Quản lý và quản trị hệ thống
 # Chức năng: 
 - Web:
   - Bán sản phẩm
