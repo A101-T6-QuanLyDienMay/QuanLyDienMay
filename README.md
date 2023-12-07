@@ -8,6 +8,7 @@
   - Đặc tả các nghiệp vụ
   - Đặc tả các usecase chức năng của Nhân viên trên hệ thống
   - Thiết kế Cơ sở dữ liệu Sql
+  - Code các chức năng trên Winform C#
 - Tạ Phi Long
   - Vẽ sơ đồ usecase nghiệp vụ
   - Vẽ sơ đồ hoạt động, tuần tự, tương tác của nghiệp vụ
@@ -15,6 +16,8 @@
     - Đặt hàng
     - Quản lý giỏ hàng
     - Thanh toán
+  - Tạo database SQL
+  - Code các chức năng trên Winform C#
 - Hồ Yến Nhi
   - Vẽ sơ đồ hoạt động, tuần tự, tương tác của nghiệp vụ
     - Đăng ký
@@ -24,6 +27,7 @@
     - Thêm vào giỏ hàng
   - Vẽ sơ đồ usecase chức năng hệ thống
   - Đặc tả các usecase chức năng của Quản lý và quản trị hệ thống
+  - Code website dành cho khách hàng đặt đơn
 # Chức năng: 
 - Web:
   - Bán sản phẩm
